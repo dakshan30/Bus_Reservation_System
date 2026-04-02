@@ -41,4 +41,4 @@ The main purpose of this project is to demonstrate the use of Java programming, 
 
 ## Note
 
-This project is developed for academic purposes.
+This project is under progress.
